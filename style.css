@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Lexend+Deca:wght@100;300;400&family=Raleway:wght@400;800&family=Roboto&display=swap');
+
+body{
+    background-color: rgb(54, 54, 73);
+
+}
+.header{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    color: aliceblue;
+    margin-bottom: 25px;
+    border-bottom: 1px solid white;
+    width: fit-content;
+}
+
+.artwork{
+    transition: 0.5s;
+
+}
+
+.artwork:hover{
+    filter: brightness(50%);
+   
+}
+.subhead{
+    color: aliceblue;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+}
+.italicize{
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
